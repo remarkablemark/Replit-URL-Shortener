@@ -1,8 +1,12 @@
 # Repl.it URL Shortener
 
+[![Run on Repl.it](https://repl.it/badge/github/remarkablemark/Repl.it-URL-Shortener)](https://repl.it/github/remarkablemark/URL-Shortener)
+![GitHub last commit](https://img.shields.io/github/last-commit/remarkablemark/Repl.it-URL-Shortener)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 [Repl.it](https://repl.it/) [URL shortener](https://wikipedia.org/wiki/URL_shortening).
 
-https://repl.it/@remarkablemark/URL-Shortener
+Demo: https://repl.it/@remarkablemark/URL-Shortener
 
 ## Prerequisites
 
