@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "@replit/database": "^2.0.0",
     "body-parser": "^1.19.0",
