@@ -4,9 +4,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/remarkablemark/Repl.it-URL-Shortener)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-[Repl.it](https://repl.it/) [URL shortener](https://wikipedia.org/wiki/URL_shortening).
-
-Demo: https://repl.it/@remarkablemark/URL-Shortener
+[Repl.it URL shortener](https://repl.it/@remarkablemark/URL-Shortener). Read the [blog post](https://remarkablemark.org/blog/2021/01/08/replit-url-shortener/).
 
 ## Prerequisites
 
